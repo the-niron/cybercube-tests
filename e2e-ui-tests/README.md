@@ -47,7 +47,7 @@ npx cypress open
   
 #### html report :
 
-<img width="1650" alt="image" src="![Screenshot 2024-03-13 at 18 25 47](https://github.com/TheNiron/backbase-tests/assets/32265029/7730bb1d-d4ba-47db-b4a8-243f5c0c87d9)">
+<img width="1650" alt="image" src="https://github.com/the-niron/cybercube-tests/assets/121791925/04d9eca5-0942-44c8-b435-ee14f59b86af">
 
 
 ## Run E2E UI tests in CI/CD pipeline
@@ -55,7 +55,6 @@ npx cypress open
 Github actions workflow is configured to trigger once a change is pushed in to 'main' branch.
 
 You can find the workflow setup file here :
- https://github.com/TheNiron/cybercube-tests/blob/main/.github/workflows/ui-test-workflow.yml
+ https://github.com/the-niron/cybercube-tests/blob/main/.github/workflows/ui-test-workflow.yml
 
 Workflow excution of UI tests: 
-<img width="1692" alt="image" src="https://user-images.githubusercontent.com/32265029/191075269-84a4c752-17dd-4311-ad0d-293f67c8ac04.png">
