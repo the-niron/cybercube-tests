@@ -46,5 +46,7 @@ You can find the workflow setup file here :
 https://github.com/the-niron/cybercube-tests/blob/main/.github/workflows/api-test-workflow.yml
 
 Workflow excution of API tests:
+https://github.com/the-niron/cybercube-tests/actions/workflows/api-test-workflow.yml
+<img width="1656" alt="Screenshot 2024-03-14 at 17 19 29" src="https://github.com/the-niron/cybercube-tests/assets/121791925/15d1d4c2-e72a-43f8-954b-bcd95320957e">
 
 

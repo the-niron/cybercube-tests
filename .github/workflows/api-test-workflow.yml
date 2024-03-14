@@ -1,4 +1,4 @@
-name: api-test-backbase
+name: api-test-cybercube
 
 on: [ push ]
 

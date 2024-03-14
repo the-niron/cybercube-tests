@@ -58,3 +58,5 @@ You can find the workflow setup file here :
  https://github.com/the-niron/cybercube-tests/blob/main/.github/workflows/ui-test-workflow.yml
 
 Workflow excution of UI tests: 
+https://github.com/the-niron/cybercube-tests/actions/workflows/ui-test-workflow.yml
+<img width="1642" alt="Screenshot 2024-03-14 at 17 22 23" src="https://github.com/the-niron/cybercube-tests/assets/121791925/cacd464b-5602-4edf-aade-603c31c69ac9">
