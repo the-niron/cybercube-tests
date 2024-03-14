@@ -10,7 +10,6 @@ module.exports = {
     env: {
       userName: 'standard_user',
       password: 'secret_sauce',
-      base64_encode_credentials: 'Y2FuZGlkYXRleDpxYS1pcy1jb29s',
       swagLabs_url: 'https://www.saucedemo.com/',
     }
   }
